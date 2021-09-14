@@ -27,7 +27,7 @@ class ViewController: UIViewController {
         Album(title: "Elvis Presley", artist: "Elvis Presley", albumImage: UIImage.init(named: "elvisPresley")!),
     ]
     
-    let url: String = "https://www.amazon.es/Exile-Main-Vinilo-Rolling-Stones/dp/B003AIEOCY/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Exile+On+Main+St.&qid=1631614885&sr=8-1"
+    let url: String = "https://www.youtube.com/watch?v=D2JL3yg1Zkk"
     
     override func viewDidLoad() {
         super.viewDidLoad()
